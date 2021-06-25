@@ -21,9 +21,6 @@ def input_parser(songs_db: SongsDB, score_list):
         __easter_egg_NMSL()
         return 1
 
-    # if choice < 0 or choice > 5:
-    #     print("Not a valid choice.")
-    #     return 1
     if choice == '0':
         return 0
     elif choice == '1' or choice.lower() == 'level':
