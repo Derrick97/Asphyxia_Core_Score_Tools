@@ -12,3 +12,9 @@
 
 ### Maybe..?
 - GUI in the future.
+
+------------------------
+### Usage (For now)
+0. Download Python3.
+1. Install the requirement in requirement.txt. (Use local environment if possible)
+2. Run main.py and follow the instructions.
