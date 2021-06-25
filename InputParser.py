@@ -1,5 +1,3 @@
-import sys
-import os
 from QuerySongs import SongsDB
 import pprint
 import Utils
